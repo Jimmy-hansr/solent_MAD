@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">S15 - JSON</string>
+    <string name="artist_query">E.G. Woop</string>
+    <string name="submit_query">Search</string>
+    <string name="artist_query_description">Enter artist:</string>
+    <string name="query_response"/>
+    <string name="select_activity">Select</string>
+    <string name="select_add_song">Add song</string>
+    <string name="select_query_artist">Search artist</string>
+    <string name="add_song_title_description">Enter song title.</string>
+    <string name="add_song_title">E.G. Woop</string>
+    <string name="add_song_artist_description">Enter song artist.</string>
+    <string name="add_song_artist">E.G. Woop</string>
+    <string name="add_song_year_description">Enter song year.</string>
+    <string name="add_song_year">E.G. 1999</string>
+    <string name="add_song_submit">Add</string>
+    <string name="debug_long_text">Hello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\nHello\nhi\nbye\n</string>
+</resources>
